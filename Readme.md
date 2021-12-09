@@ -1,1 +1,1 @@
-Repositório criado para a organização e o desenvolvimento dos projeto DIO.
+Repositório criado para a organização e o desenvolvimento dos projeto Digital Innovation One (DIO).
